@@ -1,0 +1,22 @@
+.button
+{
+	background:#F09;
+	color:#09F;
+	padding:8px 14px;
+	text-transform:uppercase;
+	border:#FFF 5px;
+	font-weight:bold;
+	cursor:pointer;
+	border-radius:26px
+	
+}
+.button: hover
+{
+	background:#0CF;
+}
+.input
+{
+	padding:5px;
+ 	border:solid 1px #0099FF;
+
+
